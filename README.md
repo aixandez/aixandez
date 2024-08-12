@@ -1,0 +1,4 @@
+- 👋 Hola, soy @aixandez
+- 🎉 Tengo 19 años
+- 👩🏻‍💻 Soy estudiante de la carrera "Tecnicatura Universitaria en Tecnologias Web" en la Universidad Nacional del Oeste.
+- 💼 Soy aspirante a ser Ingeniera de Software
