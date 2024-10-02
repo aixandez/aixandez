@@ -19,41 +19,41 @@
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/tuusuario" target="_blank">
-    <i class="fab fa-linkedin" title="LinkedIn" style="font-size: 40px;"></i>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/LinkedIn_Logo.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
   </a>
 
   <!-- Correo electrónico -->
   <a href="mailto:tuemail@example.com" target="_blank">
-    <i class="fas fa-envelope" title="Correo" style="font-size: 40px;"></i>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Mail_%28Gmail%29_icon.svg" title="Correo" alt="Correo" width="40" height="40"/>
   </a>
 
   <!-- Twitter (X) -->
   <a href="https://twitter.com/tuusuario" target="_blank">
-    <i class="fab fa-twitter" title="Twitter (X)" style="font-size: 40px;"></i>
+    <img src="https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_bird_logo_2012.svg" title="Twitter (X)" alt="Twitter (X)" width="40" height="40"/>
   </a>
 
   <!-- Telegram -->
   <a href="https://t.me/tuusuario" target="_blank">
-    <i class="fab fa-telegram" title="Telegram" style="font-size: 40px;"></i>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Telegram_logo.svg" title="Telegram" alt="Telegram" width="40" height="40"/>
   </a>
 
   <!-- Facebook Messenger -->
   <a href="https://m.me/tuusuario" target="_blank">
-    <i class="fab fa-facebook-messenger" title="Messenger" style="font-size: 40px;"></i>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Facebook_Messenger_logo.svg" title="Messenger" alt="Messenger" width="40" height="40"/>
   </a>
 
   <!-- Instagram -->
   <a href="https://instagram.com/tuusuario" target="_blank">
-    <i class="fab fa-instagram" title="Instagram" style="font-size: 40px;"></i>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" title="Instagram" alt="Instagram" width="40" height="40"/>
   </a>
 
   <!-- Discord -->
   <a href="https://discord.com/users/tuusuario" target="_blank">
-    <i class="fab fa-discord" title="Discord" style="font-size: 40px;"></i>
+    <img src="https://upload.wikimedia.org/wikipedia/en/5/5c/Discord_logo.svg" title="Discord" alt="Discord" width="40" height="40"/>
   </a>
 
   <!-- Google Meet -->
   <a href="https://meet.google.com" target="_blank">
-    <i class="fab fa-google" title="Google Meet" style="font-size: 40px;"></i>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Google_Meet_logo.svg" title="Google Meet" alt="Google Meet" width="40" height="40"/>
   </a>
 </p>
