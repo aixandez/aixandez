@@ -6,13 +6,26 @@
 
 ### 💻 Lenguajes de Programación
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Assembler" alt="Assembler" width="40" height="40"/>
+  <!-- HTML -->
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML" alt="HTML" width="40" height="40"/>
+
+  <!-- CSS -->
+  <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS" alt="CSS" width="40" height="40"/>
+
+  <!-- JavaScript -->
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+
+  <!-- C -->
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" title="C" alt="C" width="40" height="40"/>
+
+  <!-- Java -->
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java" alt="Java" width="40" height="40"/>
+
+  <!-- Python -->
+  <img src="https://img.icons8.com/color/48/000000/python.png" title="Python" alt="Python" width="40" height="40"/>
+
+  <!-- Assembler -->
+  <img src="https://img.icons8.com/external-becris-flat-becris/48/000000/external-cpu-mintab-for-ios-becris-flat-becris.png" title="Assembler" alt="Assembler" width="40" height="40"/>
 </p>
 
 ### 🗣️ Contáctame
