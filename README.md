@@ -7,7 +7,7 @@
 
 -------------------------
 
-# Hola, soy Aixa ![HandWave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+# Hola, soy [Tu Nombre] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 ## 🌐 Lenguajes de Programación
 <p align="left">
