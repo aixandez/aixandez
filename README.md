@@ -8,6 +8,9 @@
 -------------------------
 
 ## Hola, soy Aixa Giovanna Fernández ¡Bienvenid@ a mi perfil de github! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Aspirante a ingeniera de software
+### Soy estudiante de la carrera "Tecnicatura Universitaria en Tecnologías Web" en la [Universidad Nacional del Oeste](https://www.uno.edu.ar/oferta-academica/tecnicaturas/tec-univ-en-tecnologias-web.html).
+### En este archivo podes encontrar tanto mis trabajos hechos en la universidad, como apuntes y proyectos personales. ¡Bienvenid@!
 
 ### 💻 Lenguajes de Programación
 <p align="left">
