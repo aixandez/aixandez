@@ -49,7 +49,7 @@
 
   <!-- Discord -->
   <a href="https://discord.com/users/tuusuario" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Discord_logo.svg" title="Discord" alt="Discord" width="40" height="40"/>
+    <img src="https://cdn.discordapp.com/icons/1003563354190604358/05d3754b6e2d87e7d364172e80364574.png?size=256" title="Discord" alt="Discord" width="40" height="40"/>
   </a>
 
   <!-- Google Meet -->
