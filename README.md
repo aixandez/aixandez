@@ -7,7 +7,8 @@
 
 -------------------------
 
-# Hola, soy [Tu Nombre] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+## Hola, soy Aixa Giovanna Fernández
+## ¡Bienvenid@ a mi perfil de github! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 ## 🌐 Lenguajes de Programación
 <p align="left">
