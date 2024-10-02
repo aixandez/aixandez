@@ -34,7 +34,7 @@
 
   <!-- Telegram -->
   <a href="https://t.me/tuusuario" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" title="Telegram" alt="Telegram" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" title="Telegram" alt="Telegram" width="40" height="40"/>
   </a>
 
   <!-- Facebook Messenger -->
@@ -44,12 +44,12 @@
 
   <!-- Instagram -->
   <a href="https://instagram.com/tuusuario" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" title="Instagram" alt="Instagram" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" title="Instagram" alt="Instagram" width="40" height="40"/>
   </a>
 
   <!-- Discord -->
   <a href="https://discord.com/users/tuusuario" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" title="Discord" alt="Discord" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Discord_logo.svg" title="Discord" alt="Discord" width="40" height="40"/>
   </a>
 
   <!-- Google Meet -->
