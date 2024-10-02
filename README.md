@@ -9,7 +9,7 @@
 
 ## Hola, soy Aixa Giovanna Fernández ¡Bienvenid@ a mi perfil de github! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## 🌐 Lenguajes de Programación
+### 💻 Lenguajes de Programación
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
@@ -20,7 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Assembler" alt="Assembler" width="40" height="40"/>
 </p>
 
-## 📫 Contáctame
+### 🗣️ Contáctame
 <p align="left">
   <a href="mailto:tuemail@example.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" title="Correo" alt="Correo" width="40" height="40"/>
