@@ -25,7 +25,7 @@
   <img src="https://img.icons8.com/color/48/000000/python.png" title="Python" alt="Python" width="40" height="40"/>
 
   <!-- Assembler -->
-  <img src="https://img.icons8.com/color/48/000000/assembly-language.png" title="Assembler" alt="Assembler" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/assembly.png" title="Assembler" alt="Assembler" width="40" height="40"/>
 </p>
 
 ### 🗣️ Contáctame
