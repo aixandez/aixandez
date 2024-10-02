@@ -17,13 +17,43 @@
 
 ### 🗣️ Contáctame
 <p align="left">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/tuusuario" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
+  </a>
+
+  <!-- Correo electrónico -->
   <a href="mailto:tuemail@example.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" title="Correo" alt="Correo" width="40" height="40"/>
   </a>
-  <a href="https://facebook.com/tuusuario" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" title="Facebook" alt="Facebook" width="40" height="40"/>
+
+  <!-- Twitter (X) -->
+  <a href="https://twitter.com/tuusuario" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" title="Twitter (X)" alt="Twitter (X)" width="40" height="40"/>
   </a>
+
+  <!-- Telegram -->
+  <a href="https://t.me/tuusuario" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" title="Telegram" alt="Telegram" width="40" height="40"/>
+  </a>
+
+  <!-- Facebook Messenger -->
+  <a href="https://m.me/tuusuario" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" title="Messenger" alt="Messenger" width="40" height="40"/>
+  </a>
+
+  <!-- Instagram -->
   <a href="https://instagram.com/tuusuario" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" title="Instagram" alt="Instagram" width="40" height="40"/>
+  </a>
+
+  <!-- Discord -->
+  <a href="https://discord.com/users/tuusuario" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" title="Discord" alt="Discord" width="40" height="40"/>
+  </a>
+
+  <!-- Google Meet -->
+  <a href="https://meet.google.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" title="Google Meet" alt="Google Meet" width="40" height="40"/>
   </a>
 </p>
