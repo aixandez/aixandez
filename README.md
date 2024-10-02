@@ -25,7 +25,7 @@
   <img src="https://img.icons8.com/color/48/000000/python.png" title="Python" alt="Python" width="40" height="40"/>
 
   <!-- Assembler -->
-  <img src="https://img.icons8.com/external-becris-flat-becris/48/000000/external-cpu-mintab-for-ios-becris-flat-becris.png" title="Assembler" alt="Assembler" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/assembly-language.png" title="Assembler" alt="Assembler" width="40" height="40"/>
 </p>
 
 ### 🗣️ Contáctame
