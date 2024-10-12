@@ -2,7 +2,7 @@
 #### - 🌎 Buenos Aires, Argentina.
 #### - 💼 Aspirante a ingeniera de software.
 #### - 👩🏻‍💻 Estudiante de la carrera ["Tecnicatura Universitaria en Tecnologías Web"](https://www.uno.edu.ar/oferta-academica/tecnicaturas/tec-univ-en-tecnologias-web.html) en la Universidad Nacional del Oeste.
-#### - ✍🏻 En este archivo podes encontrar tanto mis trabajos hechos en la universidad como proyectos personales.
+#### - ✍🏻 En mi perfil podes encontrar tanto mis trabajos hechos en la universidad como proyectos personales.
 
 ### 💻 Lenguajes de Programación
 <p align="left">
