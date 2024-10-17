@@ -1,7 +1,7 @@
 ## Hola, soy Aixa Giovanna Fernández ¡Bienvenid@ a mi perfil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 #### - 🌎 Buenos Aires, Argentina.
 #### - 💼 Aspirante a ingeniera de software.
-#### - 👩🏻‍💻 Estudiante de la carrera ["Tecnicatura Universitaria en Tecnologías Web"](https://www.uno.edu.ar/oferta-academica/tecnicaturas/tec-univ-en-tecnologias-web.html) en la Universidad Nacional del Oeste.
+#### - 👩🏻‍💻 Estudiante de la carrera ["Licenciatura en Informática"](https://www.uno.edu.ar/oferta-academica/grado/lic-en-informatica.html) en la Universidad Nacional del Oeste.
 #### - ✍🏻 En mi perfil podes encontrar tanto mis trabajos hechos en la universidad como proyectos personales.
 
 ### 💻 Lenguajes de Programación
