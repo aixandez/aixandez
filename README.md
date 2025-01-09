@@ -2,7 +2,7 @@
 #### - 🌎 Buenos Aires, Argentina.
 #### - 💼 Aspirante a backend developer.
 #### - 👩🏻‍💻 Estudiante de la carrera ["Licenciatura en Informática"](https://www.uno.edu.ar/oferta-academica/grado/lic-en-informatica.html) en la Universidad Nacional del Oeste.
-#### - ✍🏻 En mi perfil podes encontrar tanto mis trabajos hechos en la universidad como proyectos personales.
+#### - ✍🏻 En mi perfil podes encontrar tanto mis trabajos desarrollados en la universidad como proyectos personales.
 
 ### 💻 Lenguajes de Programación
 <p align="left">
